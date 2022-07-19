@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+h1{
+    text-align: center;
+    color: purple;
+    margin-top: 2rem;
+}
+
+div .img{
+    width: 80%;
+    text-align: center;
+}
+img{
+    width: 12rem;
+    height: 12rem;   
+    border: solid purple; 
+}
+
+.row{
+    display: flex;
+    padding: 2rem;
+    flex-wrap: wrap;
+}
+
+.column {
+    text-align:center;
+    padding: 1rem;
+  }
